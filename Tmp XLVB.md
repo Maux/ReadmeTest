@@ -1,6 +1,5 @@
 ## Excel VBA Library  ![Excel](images/ms_excel.png?raw=true)  ![VBA](images/vba.png?raw=true)
 ### *Practical and useful codes for procedures (sub), functions, classes and userforms for Excel / VBA*
-***
 <details>
   <summary>Text Functions</summary>
   <blockquote>
