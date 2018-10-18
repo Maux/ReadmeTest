@@ -1,0 +1,40 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+# These files are text and should be normalized (Convert crlf => lf)
+*.bas text
+*.cls text
+*.css text
+*.html text
+*.txt text
+*.xml text
+# These files are binary and should be left untouched
+# (binary is a macro for -text -diff)
+*.7z binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.mov binary
+*.mp3 binary
+*.mp4 binary
+*.png binary
+*.rar binary
+*.ttf binary
+*.zip binary
+# Documents
+*.doc  diff=astextplain
+*.DOC  diff=astextplain
+*.docx diff=astextplain
+*.DOCX diff=astextplain
+*.dot  diff=astextplain
+*.DOT  diff=astextplain
+*.pdf  diff=astextplain
+*.PDF  diff=astextplain
+*.rtf  diff=astextplain
+*.RTF  diff=astextplain
+*.xls  diff=astextplain
+*.XLS  diff=astextplain
+*.xlsm diff=astextplain
+*.XLSM diff=astextplain
+*.xlsx diff=astextplain
+*.XLSX diff=astextplain
