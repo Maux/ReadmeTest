@@ -3,13 +3,21 @@
 <details>
   <summary>Text Functions</summary>
   <blockquote>
-    <ul>
-      <li>
-        <a href="https://github.com/Maux" title="Fx_Count_Occurrences" alt="Fx_Count_Occurrences">Fx_Count_Occurrences</a><br>Returns a Long specifying the number of occurrences of a string within another. Comparison mode available for distinction or not between uppercase and lowercase.
-      </li>
-      <li>
-        Fx_Count_Words<br>Returns the number of words in a text, using the standard delimiter (space) between words.
-      </li>
-    </ul>
-  </blockquote>
+  <table style="width:90% !important;">
+    <colgroup><col style="text-align:justify;width:25%"/><col style="text-align:justify;width:25%"/><col style="text-align:justify;width:50%"/></colgroup>
+    <thead><tr><th>File</th><th>Function</th><th>Description</th></tr></thead>
+    <tbody>
+      <tr>
+        <td><a href="https://github.com/Maux" title="Mod_Count_Occurrences.bas" alt="Mod_Count_Occurrences.bas">Mod_Count_Occurrences.bas</a></td>
+        <td><strong>Fx_Count_Occurrences</strong></td>
+        <td>Returns a Long specifying the number of occurrences of a string within another. Comparison mode available for distinction or not between uppercase and lowercase.</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/Maux" title="Mod_Count_Worlds.bas" alt="Mod_Count_OWorlds.bas">Mod_Count_Worlds.bas</a></td>
+        <td><strong>Fx_Count_Worlds</strong></td>
+        <td>Returns the number of words in a text, using the standard delimiter (space) between words.</td>
+      </tr>
+    </tbody>
+  </table>
 </details>
+  
