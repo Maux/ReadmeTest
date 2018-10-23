@@ -1,7 +1,11 @@
 ## ReadmeTest
 Read Me tests for projects
 ***
-Here's a simple footnote,[^1] and here's a longer one.[^bignote]
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
+![foo](/images/ms_excel.png "title")
 
 |Logos                          |Images                 |
 |:------------------------------|:---------------------:|
@@ -24,10 +28,3 @@ End Sub
 ```
 
 <p id="t1"><a href="#lh3">Temporary</a></p>
-
-[^1]: This is the first footnote.
-```VB.NET
-Public Sub Footnote()
-  Debug.Print "HI"
-End Sub
-```
