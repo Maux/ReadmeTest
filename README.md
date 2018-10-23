@@ -1,11 +1,11 @@
+<sup id="a1">[1](#f1)Foot</sup>
+
 ## ReadmeTest
 Read Me tests for projects
 ***
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
-
-![foo](/images/ms_excel.png "title")
 
 |Logos                          |Images                 |
 |:------------------------------|:---------------------:|
@@ -28,3 +28,5 @@ End Sub
 ```
 
 <p id="t1"><a href="#lh3">Temporary</a></p>
+
+1. <small id="f1"> Some footnote.  </small> [↩](#a1)
