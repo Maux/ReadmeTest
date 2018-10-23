@@ -29,7 +29,19 @@ End Sub
 <p id="t1"><a href="#lh3">Temporary</a></p>
 
 <small id="f1">1. &mdash; Footnote content here. [↩](#top)</small>
-<p id="t2"><a href="#sp">Back to span Curae</a></p>  
-  - Write the press release
-  - Update the website
-  - Contact the media
+<p id="t2"><a href="#sp">Back to span Curae</a></p>
+
+1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.  
+    1. Aliquam tincidunt mauris eu risus.
+        1. Aliquam tincidunt mauris eu risus.
+        2. Vestibulum auctor dapibus neque.
+    2. Vestibulum auctor dapibus neque.
+        1. Aliquam tincidunt mauris eu risus.
+        2. Vestibulum auctor dapibus neque.
+1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+    1. Aliquam tincidunt mauris eu risus.
+    2. Vestibulum auctor dapibus neque.
+        1. JKJLKJL
+1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+    1. Aliquam tincidunt mauris eu risus.
+1. Vestibulum auctor dapibus neque.
