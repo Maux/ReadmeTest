@@ -1,4 +1,4 @@
-<p id="top">Bla bla <sup id="a1">[1](#f1)</sup></p>
+<a href="#f1"><p id="top">Footnote <sup>1</sup></p></a>
 
 ## ReadmeTest
 Read Me tests for projects
