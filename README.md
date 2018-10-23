@@ -47,3 +47,4 @@ It aims to be [CommonMark][3] compliant, and includes options to style the outpu
 [1]: #tmp1
 [2]: https://github.com/domchristie/turndown
 [3]: http://commonmark.org/
+[tmp1]: Temp
