@@ -1,12 +1,5 @@
-<h6 id="top"><a href="#f1">Footnote 1</a></h6>
+<h2 id="top">Readme Test</h2>
 
-#### h4[f1]
-
-#### h4(f1)
-
-#### h4(#f1)
-
-## ReadmeTest
 Read Me tests for projects
 ***
 - [x] Write the press release
