@@ -1,18 +1,7 @@
 ## ReadmeTest
 Read Me tests for projects
 ***
-```javascript
-var follow = require('text-file-follower');
-
-var follower = follow('/var/log/syslog');
-
-follower.on('line', function(filename, line) {
-  console.log('Got a new line from '+filename+': '+line);
-});
-
-// ... and then eventually:
-follower.close();
-```
+Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
 |Logos                          |Images                 |
 |:------------------------------|:---------------------:|
@@ -35,3 +24,10 @@ End Sub
 ```
 
 <p id="t1"><a href="#lh3">Temporary</a></p>
+
+[^1]: This is the first footnote.
+```VB.NET
+Public Sub Footnote()
+  Debug.Print "HI"
+End Sub
+```
