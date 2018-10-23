@@ -1,4 +1,4 @@
-<p id="top">Footnotes <a href="#f1"><sup>f1</sup></a></p>
+<p id="top">Bla bla <sup id="a1">[1](#f1)</sup></p>
 
 ## ReadmeTest
 Read Me tests for projects
@@ -29,4 +29,4 @@ End Sub
 
 <p id="t1"><a href="#lh3">Temporary</a></p>
 
-1. &mdash; <small id="f1">Some footnote.</small> <a href="#top">[↩]</a>
+<small id="f1">1. &mdash; Footnote content here. [↩](#top)</small>
