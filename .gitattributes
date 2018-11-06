@@ -19,6 +19,7 @@
 *.mp4 binary
 *.png binary
 *.rar binary
+*.svg binary
 *.ttf binary
 *.zip binary
 # Documents
